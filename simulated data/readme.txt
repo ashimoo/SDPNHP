@@ -1,0 +1,2 @@
+1. volume numbers are in hundred; time is in 1e-2 seconds; price is relative price, relative to the best bid or ask price.
+2. event type: 0 is bid submission; 1 is bid cancellation; 2 is ask submission; 3 is ask cancellation
